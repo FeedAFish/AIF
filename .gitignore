@@ -1,0 +1,7 @@
+Session1/
+.vscode/
+.ipynb_checkpoints/
+mnist_net.pth
+data/
+Defi/submission/
+Defi/model/
