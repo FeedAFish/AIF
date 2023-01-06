@@ -1,7 +1,10 @@
 Session1/
+Session2/
+Session3/
 .vscode/
 .ipynb_checkpoints/
 mnist_net.pth
 data/
 Defi/submission/
 Defi/model/
+Defi/data
